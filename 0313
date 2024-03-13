@@ -1,0 +1,38 @@
+<head>
+    <meta charset="utf-8">
+    <title>致嘉的自傳</title>
+    <a name="#top"></a>
+
+</head>
+
+<body>
+
+
+    <center>劉致嘉</center>
+
+   
+   
+   
+    <img src="me.jpg" width="300" height="300" border="4">
+
+
+    <ul>
+        <li>標題
+            <ul>關於我:
+                    <li>身高:175
+                    <li>體重:65
+
+            <ul> 
+        <li>介紹:
+            <li>學校:高雄大學 
+            <li>系所:資管系   
+    </u1>
+
+    <table border=
+    <tr><td>家庭成員</td><td>爸爸</td><td>媽媽</td><td>妹妹</td><td>奶奶
+    <tr><td>學校經歷</td><td>三民高中</td><td>立志國中</td><td>新莊國小</td><td>長春藤幼稚園
+    <tr><td>喜歡的食物</td><td>拉麵</td><td>壽司</td><td>漢堡</td><td>薯條
+    <tr><td>愛喝的飲料</td><td>多多綠</td><td>拿鐵</td><td>可口可樂</td><td>冬瓜牛奶
+</table>
+</body>
+</html>
