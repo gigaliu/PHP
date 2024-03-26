@@ -1,0 +1,18 @@
+<html>
+<meta charset="utf8">
+
+</html>
+<center><h1 style="font-size:35pptx">高大舞會報名表</h1><center>
+<form action ="0326 check.php" method="post">
+
+學號:<input type="text" name="uId"><br/><br/>
+密碼:<input type="password" name="uPWD"><br/><br/>
+
+
+
+<input type="submit">
+
+</form>
+
+<?php
+?>
