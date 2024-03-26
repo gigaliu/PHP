@@ -1,0 +1,22 @@
+<?php
+session_start();
+?>
+
+
+<meta charset="utf-8">
+
+<?php
+$sId="3370";
+$sPWD="109";
+
+$uId=$_POST["uId"];
+$uPWD=$_POST["uPWD"];
+
+if($sId==$uId && $sPWD==$uPWD){
+    $_SESSION["check"]="Yes";
+    header("Location:0326 success.php");
+}else{
+    $_SESSION["check"]="No";
+    header("Location:0326 fail.php");
+}
+?>
